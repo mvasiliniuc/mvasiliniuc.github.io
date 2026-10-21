@@ -16,5 +16,5 @@ layout: default
 
 ::about-item{icon="gear-refresh-icon" label="Currently" text="Technical Consultant. Areas of work:" items="Create MCPs targeting regulations (e.g., PSD2) for banking/trading software development or mobile security guidelines (e.g. OWASP MASVS)|Create templates for agentic safety execution gates|Create agentic skills to support mobile development|Consult on the technical recruitment of mobile developers"}
 
-::about-item{icon="sailboat-icon" label="Personal" text="I'm captivated when working on something that matters to me. Besides the resonance I have with the depth of the digital world, I also reserve mind and body power to other aspects. To name a few: Urban/Environmental/Product Design, Cycling, Sailing (CsD), Hiking + Mushrooms/Berries, Kite-Surfing, most team sports (played! not watched)."}
+::about-item{icon="sailboat-icon" label="Personal" text="I'm captivated when working on something that matters to me. Besides the resonance I have with the depth of the digital world, I also reserve mind and body power to other aspects. To name a few: Urban Design, Cycling, Sailing (CsD), Hiking + Mushrooms/Berries, Kite-Surfing, most team sports (played! not watched)."}
 :::
